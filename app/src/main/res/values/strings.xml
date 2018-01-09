@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bonrevoir</string>
+    <string name="bjr">Bonjour</string>
+    <string name="dbjr">Dis bonjour</string>
+    <string name="arv">Au revoir</string>
+    <string name="darv">Dis au revoir</string>
+</resources>
